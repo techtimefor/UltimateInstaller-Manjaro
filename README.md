@@ -6,5 +6,5 @@
 
 1. `wget https://raw.githubusercontent.com/techtimefor/UltimateInstaller-Manjaro/master/ultimateinstall.sh`
 2. `chmod +x  ultimateinstall.sh`
-3. `./ ultimateinstall.sh
+3. `./ultimateinstall.sh
 `
